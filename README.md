@@ -5,6 +5,7 @@ We put our experiment results in the form of accuracy-epoch images in the direct
 You can download our code to apply it to your dataset, and feel free to communicate with us if you encounter problems.
 
 Author:Group 6
+
 Pre-algorithm research：Jinyuan Fu,Qiuyu Liu
 Algorithm implementation：Shaofei Liu,Aiqi Wang
 Data and Graphical Analysis：Ziyi Lu
