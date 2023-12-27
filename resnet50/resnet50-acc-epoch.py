@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 
-# 您提供的数据
 epochs = list(range(1, 101))
 test_accuracy = [
     73.077, 73.077, 73.077, 73.077, 73.077, 73.077, 73.077, 73.077, 75.641, 76.282,
