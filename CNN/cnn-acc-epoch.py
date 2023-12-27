@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 
-# 提供的准确性数据
 epochs = list(range(1, 101))
 accuracy = [
     73.077, 73.077, 73.077, 73.077, 73.077, 73.077, 73.077, 73.077, 73.077, 73.077,
@@ -15,7 +14,7 @@ accuracy = [
     80.769, 84.615, 83.333, 82.692, 82.692, 83.974, 83.974, 83.333, 83.333, 83.974
 ]
 
-# 绘制准确性与 epoch 的图像
+# 绘制图像
 plt.plot(epochs, accuracy, label='Test Accuracy')
 plt.title('Test Accuracy vs Epoch')
 plt.xlabel('Epoch')
